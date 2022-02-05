@@ -1,0 +1,6 @@
+19:14:09 **** Auto Build of configuration Debug for project test_microblaze ****
+make all 
+make: Nothing to be done for 'all'.
+
+19:14:09 Build Finished (took 93ms)
+
