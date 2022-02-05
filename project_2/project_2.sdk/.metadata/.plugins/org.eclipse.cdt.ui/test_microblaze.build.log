@@ -1,6 +1,6 @@
-19:14:09 **** Auto Build of configuration Debug for project test_microblaze ****
+19:38:52 **** Incremental Build of configuration Debug for project test_microblaze ****
 make all 
 make: Nothing to be done for 'all'.
 
-19:14:09 Build Finished (took 93ms)
+19:38:52 Build Finished (took 91ms)
 
